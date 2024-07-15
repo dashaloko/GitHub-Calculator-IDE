@@ -4,8 +4,7 @@ public class Main
 {
     public static void main(String[] args)
     {
-        System.out.println("Super app!");
-        System.out.println("Calculator for base calculations");
+   System.out.println("My git app. Super!");
         int a = 8;
         int b = 2;
         int c = add(a, b);
@@ -14,6 +13,5 @@ public class Main
 
     private static int add(int a, int b) {
         return a + b;
-    }
+   }
 }
-
